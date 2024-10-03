@@ -9,4 +9,5 @@ how to run the project:-
 write these commands :
 
 python-m venv.venv
+.venv\Scripts\activate
 pip install -r requirements.txt
